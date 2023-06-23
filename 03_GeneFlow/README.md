@@ -6,3 +6,8 @@ To investigate patterns of shared ancestry of wolves in Pakistan to ancestral In
 - Infer D statistic using ANGSD with including reads that had at least ~90% of individuals present (-minInd 57) -> [02_doabbababa.sh](/03_GeneFlow/02_doabbababa.sh)
 - Run jackknife analysis for ABBA BABA results -> [03_dojackknife.sh](/03_GeneFlow/03_dojackknife.sh)
 - Plot D statistic figure in R -> [04_plot_Dstat_figure.R](/03_GeneFlow/04_plot_Dstat_figure.R)
+
+### References 
+
+Green RE, Krause J, Briggs AW, et al. 2010. A draft sequence of a Neandertal genome. Science 328(5979): 710-722. 
+
