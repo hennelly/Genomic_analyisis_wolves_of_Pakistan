@@ -8,3 +8,5 @@
 - First, I need to merge all the GBS bam files to grab all coordinates, then convert this merged GBS bam file to a bed file and sort the bed file - [03_mergebams.sh](/01_Alignment/03_mergeGBSbams.sh)
 - Second, I will then subset the WGS bam files to match the coordinates within the GBS files - [04_subsetWGSonGBS.sh](/01_Alignment/04_subsetWGSonGBS.sh)
 
+## 3.0 Calculate depth of each bam file 
+- [05_depthpersample.sh](/01_Alignment/05_depthpersample.sh)
