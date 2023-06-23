@@ -13,7 +13,7 @@
 
 
 
-# References 
+### References 
 
 Meisner J, A Albrechtsen. 2018. Inferring population structure and admixture proportions in low-depth NGS data. Genetics 210(2): 719-731. 
 
