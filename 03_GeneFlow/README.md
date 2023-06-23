@@ -4,4 +4,4 @@ To investigate patterns of shared ancestry of wolves in Pakistan to ancestral In
 
 - First, we need to make the ancestral fasta, which we used the Gray fox genome -> [01_makeancestralfasta.sh](/03_GeneFlow/01_makeancestralfasta.sh)
 - Infer D statistic using ANGSD with including reads that had at least ~90% of individuals present (-minInd 57) -> [02_doabbababa.sh](/03_GeneFlow/02_doabbababa.sh)
-
+- Run jackknife analysis for ABBA BABA results -> 03_dojackknife.sh
