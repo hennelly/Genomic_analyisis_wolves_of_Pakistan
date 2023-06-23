@@ -8,6 +8,7 @@
  - Plot PCA in R -> [03_plotPCA.sh](/02_Genome_wide_Summary/03_plotPCA.sh)
 
 ## Individual Admixture Proportions with NGSAdmix
+- we inferred genotype likelihoods using ANGSD and ran NGSadmix (Skotte et al. 2013) assuming K = 2–7 genetic clusters. We also included additional canids by including 4 North American gray wolves, 12 dogs, a coyote (Canis latrans), African wolf (Canis lupaster), Golden Jackal from India (Canis aureus), and an Ethiopian wolf (Canis simensis)
 
 
 
