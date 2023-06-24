@@ -9,4 +9,4 @@
 
 conda init beastie1
 
-/home/hennelly/miniconda3/envs/beastie1/bin/treeannotator -burninTrees 5000 BNS_PakistanwolvesNov1_finalJun24.trees.txt BNS_PakistanwolvesNov1_Jun24beastFINALTREE.txt
+/home/hennelly/miniconda3/envs/beastie1/bin/treeannotator -burninTrees 5000 BNS_PakistanwolvesNov1_finalJun24_adjsd.trees.txt BNS_PakistanwolvesNov1__adjsd_Jun24beastFINALTREE.txt
