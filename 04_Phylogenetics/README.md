@@ -5,6 +5,5 @@
 - move into my local cluster ->  `rsync -avz --progress ~/Desktop/BNS_PakistanwolvesNov1_finalJun24.xml hennelly@farm.cse.ucdavis.edu:/group/ctbrowngrp2/hennelly/hennelly/Pakistan_Graywolf_Genomics/Mitogenome/Beast`
 
 ## Run Beast
-
-- 
-
+- Running Beast ->  01_beast.sh
+- Running treeannotator -> 02_treeannotator.sh
