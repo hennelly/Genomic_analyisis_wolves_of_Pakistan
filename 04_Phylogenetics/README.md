@@ -5,10 +5,10 @@
 - move into my local cluster ->  `rsync -avz --progress ~/Desktop/BNS_PakistanwolvesNov1_finalJun24_adjsd.xml hennelly@farm.cse.ucdavis.edu:/group/ctbrowngrp2/hennelly/hennelly/Pakistan_Graywolf_Genomics/Mitogenome/Beast`
 
 ## Run Beast
-- Running Beast ->  01_beast.sh
-- Running treeannotator -> 02_treeannotator.sh
+- Running Beast -> [01_beast.sh](/04_Phylogenetics/01_beast.sh) 
+- Running treeannotator -> [02_treeannotator.sh](/04_Phylogenetics/02_treeannotator.sh) 
 - move log file to see run on Tracer: `scp -r hennelly@farm.cse.ucdavis.edu:/group/ctbrowngrp2/hennelly/hennelly/Pakistan_Graywolf_Genomics/Mitogenome/Beast/BNS_PakistanwolvesNov1_finalJun23_beastFINALTREE.txt ~/Desktop`
 
 ## Plotting mtDNA with a map and elevation 
-- plotting mtDNA and elevation -> 03_plotting_mtDNA_and_elevation.R
-- plotting mtDNA lineages on  a map -> 04_plotting_mtDNA_on_map.R
+- plotting mtDNA and elevation ->  [03_plotting_mtDNA_and_elevation.R](/04_Phylogenetics/03_plotting_mtDNA_and_elevation.R) 
+- plotting mtDNA lineages on  a map -> [04_plotting_mtDNA_on_map.R](/04_Phylogenetics/04_plotting_mtDNA_on_map.R) 
