@@ -7,3 +7,4 @@
 ## Run Beast
 - Running Beast ->  01_beast.sh
 - Running treeannotator -> 02_treeannotator.sh
+- move log file to see run on Tracer: `BNS_PakistanwolvesNov1_finalJun24.log.txt`
