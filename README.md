@@ -20,4 +20,5 @@
 - Plotting elevation + mtDNA lineage -> [03_plotting_mtDNA_and_elevation.R](/04_Phylogenetics/03_plotting_mtDNA_and_elevation.R) 
 - Plotting mtDNA with map in R -> [04_plotting_mtDNA_on_map.R](/04_Phylogenetics/04_plotting_mtDNA_on_map.R)
 
-- 
+For script-related questions, please email Lauren Hennelly at lauren.hennelly@sund.ku.dk
+
