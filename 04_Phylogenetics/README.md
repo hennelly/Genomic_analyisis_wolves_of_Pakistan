@@ -7,4 +7,4 @@
 ## Run Beast
 - Running Beast ->  01_beast.sh
 - Running treeannotator -> 02_treeannotator.sh
-- move log file to see run on Tracer: `scp -r hennelly@farm.cse.ucdavis.edu:/group/ctbrowngrp2/hennelly/hennelly/Pakistan_Graywolf_Genomics/Mitogenome/Beast/BNS_PakistanwolvesNov1_finalJun23.log.txt ~/Desktop`
+- move log file to see run on Tracer: `scp -r hennelly@farm.cse.ucdavis.edu:/group/ctbrowngrp2/hennelly/hennelly/Pakistan_Graywolf_Genomics/Mitogenome/Beast/BNS_PakistanwolvesNov1_finalJun23_beastFINALTREE.txt ~/Desktop`
