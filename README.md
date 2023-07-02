@@ -1,4 +1,4 @@
-# Genomic analysis of wolves from Pakistan clarifies boundaries among three divergent lineages
+# Genomic analysis of wolves from Pakistan clarifies boundaries among three divergent wolf lineages
 
 ## Sample List 
 - Will upload when paper is accepted
