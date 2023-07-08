@@ -1,7 +1,7 @@
 # Genomic analysis of wolves from Pakistan clarifies boundaries among three divergent wolf lineages
 
 <p align="center">
-<img src="/04_Phylogenetics/Aligning_and_Filtering/Wolfdrawing.png" length="400" width="400">
+<img src="/04_Phylogenetics/Wolfdrawing.png" length="400" width="400">
 </p>
 
 ## Sample List 
