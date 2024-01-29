@@ -5,7 +5,7 @@
 </p>
 
 ## Sample List 
-- Meta-data for the 11 newly sequenced canids, which consisted of 1 dog from Pakistan, whole genomes of 2 wolves from Kyrgyzstan, and 8 reduced representation sequences from Pakistan is avaliable here: [01_Adapter_trimming.sh](/01_Alignment/01_Adapter_trimming.sh)
+- Meta-data for the 11 newly sequenced canids, which consisted of 1 dog from Pakistan, whole genomes of 2 wolves from Kyrgyzstan, and 8 reduced representation sequences from Pakistan is avaliable here: [Samplelist](/00_SamplesMetadata/Metadata_Hennelly_etal_2023.csv)
 
 ## 01_Alignment_SNPCalling
 - adaptor trimming -> [01_Adapter_trimming.sh](/01_Alignment/01_Adapter_trimming.sh)
